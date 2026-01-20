@@ -22,6 +22,7 @@ jobs:
           template: classic
           base: ""
           config_timezone: America/New_York # Set your timezone
+          filename: github-metrics.svg
           
           # Plugin: Isometric Calendar (The 3D City)
           plugin_isocalendar: yes
