@@ -33,5 +33,5 @@
   The URL below is a placeholder for where the generated image would typically live in your repo.
   See instructions at: https://github.com/lowlighter/metrics
 -->
-<img src="https://github.com/itsgnex/itsgnex/blob/master/github-metrics.svg" alt="3D Isometric Contributions > (Requires GitHub Action Setup)" width="800" />
+<img src="https://github.com/itsgnex/itsgnex/blob/main/github-metrics.svg" alt="3D Isometric Contributions > (Requires GitHub Action Setup)" width="800" />
 </div>
